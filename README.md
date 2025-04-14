@@ -33,7 +33,8 @@ KIND Cluster Setup Guide
     
   -Open the Dashboard in your browser:
     http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/
-    
+    [KIND CLUSTER SETUP.pdf](https://github.com/user-attachments/files/19741576/KIND.CLUSTER.SETUP.pdf)
+
   -Use the token from the previous step to log in.
 
 5. Deleting the Cluster
